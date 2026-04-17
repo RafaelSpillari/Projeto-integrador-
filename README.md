@@ -14,7 +14,7 @@
 
 ## 1 INTRODUÇÃO
 
-A procrastinação é um fenômeno estudado no campo da psicologia comportamental, caracterizada pelo adiamento voluntário de tarefas relevantes, mesmo diante da consciência de possíveis consequências negativas. Trata-se de um comportamento recorrente na sociedade contemporânea, especialmente em contextos acadêmicos e profissionais que demandam alto desempenho cognitivo.
+A procrastinação é um fenômeno explodado no campo da psicologia comportamental, caracterizada pelo adiamento voluntário de tarefas relevantes, mesmo diante da consciência de possíveis consequências negativas. Trata-se de um comportamento recorrente na sociedade contemporânea, especialmente em contextos acadêmicos e profissionais que demandam alto desempenho cognitivo.
 
 O avanço das tecnologias digitais e o aumento das demandas cotidianas têm contribuído para a intensificação desse comportamento, tornando a procrastinação um problema relevante tanto do ponto de vista individual quanto coletivo. Seus efeitos extrapolam a perda de produtividade, estando associados a impactos significativos na saúde mental, como aumento da ansiedade, estresse e frustração.
 
